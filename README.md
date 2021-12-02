@@ -1,5 +1,9 @@
 "# ProjetMVC" 
--Inscription/connexion -
+
+
+-Inscription
+-Connexion Admin/Client (password et email verify)
+
 -Vue admin: 
 
 - Formulaire ajout de produit (Nom produit,Prix,Description,Images,TVA,stock);
